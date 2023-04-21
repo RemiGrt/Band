@@ -1,4 +1,3 @@
-
 # Setlist 27/04
 [Road song](./audio/RoadSong.mp3) \
 Bye Bye Black Bird \
@@ -11,8 +10,7 @@ Girl From Ipanema \
 All the things you are \
 Footprints \
 Perdido \
-Au privave \
-
+Au privave 
 
 # Propositions
 [Road song](./audio/RoadSong.mp3) \
@@ -25,6 +23,9 @@ Remeber - Hank Mobley https://www.youtube.com/watch?v=KV0HX9sk_04 \
 No Room For Squares - Hank Mobley https://www.youtube.com/watch?v=Xcq_zg-Zw5k \
 Renaissance - Louis Matute https://www.youtube.com/watch?v=Oy3R5Wecjbc \
 Freedrom Jazz Dance - Eddie Harris https://www.youtube.com/watch?v=iDrH5urtCbQ \
+Cherokee - Kamasi Washinghton - https://www.youtube.com/watch?v=3DM9fGXHhlk
+
+
 
 # Partitions
 [Road song Bb](./part/Road Song-Wes-Bb.pdf) \
